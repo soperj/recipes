@@ -15,3 +15,6 @@ color: yellow
 - Artisanal augula
 - Salsa
 - Onions
+- Cheedar Cheese
+- Sour Cream
+- Guacamole
